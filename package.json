@@ -14,7 +14,7 @@
     "slidev-theme-penguin": "^1.1.2",
     "vite-svg-loader": "^3.0.0"
   },
-  "name": "intro-to-svg",
+  "name": "slides-maker",
   "devDependencies": {
     "@iconify-json/logos": "^1.1.5",
     "@iconify-json/ri": "^1.0.1"
