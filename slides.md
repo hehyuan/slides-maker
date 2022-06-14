@@ -2,7 +2,6 @@
 theme: ./theme
 class: text-center
 highlighter: prism
-lineNumbers: true
 info: |
   ## Slides for presenting online
 drawings:
@@ -13,7 +12,7 @@ title: Test slides
 themeConfig:
   # logoHeader: https://pic.imgdb.cn/item/62a835330947543129309526.png
   author: hehy
-  authorUrl: https://lamda.nju.edu.cn/hehy
+  authorUrl: https://www.lamda.nju.edu.cn/hehy
 ---
 
 # Test Slidev
@@ -39,13 +38,8 @@ Presenter: A Handsome Man
 -->
 
 ---
-
-
----
 layout: text-window
 reverse: true
-eventLogo: 'https://img2.storyblok.com/352x0/f/84560/2388x414/23d8eb4b8d/vue-amsterdam-with-name.png'
-eventUrl: 'https://vuejs.amsterdam/'
 ---
 
 # Embedded stuff
@@ -55,11 +49,10 @@ Use window to show a live demo of any page, or even a sub component!
 ::window::
 
 <div class="overflow-hidden relative w-full aspect-16-9">
-<iframe height="800" style="width: 100%;" scrolling="no" title="Text Clock" src="www.nju.edu.cn" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="400" style="width: 100%;" scrolling="yes" title="Text Clock" src="https://www.bing.com" frameborder="yes" loading="lazy" allowtransparency="true" allowfullscreen="no" >
 </iframe>
 </div>
----
-class: 'grid text-center align-self-center justify-self-center'
+
 ---
 
 # Gracias totales
