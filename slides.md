@@ -11,7 +11,7 @@ download: true
 layout: intro
 title: Test slides
 themeConfig:
-  logoHeader: 'https://github.com/hehyuan/slides-maker/blob/main/nju_big.png'
+  logoHeader: 'https://raw.githubusercontent.com/hehyuan/slides-maker/blob/main/nju_big.png'
   author: hehy
   authorUrl: https://lamda.nju.edu.cn/hehy
 ---
