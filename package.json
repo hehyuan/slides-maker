@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "slidev build --base /intro-to-svg-slides/",
+    "build": "slidev build --base /slides-maker/",
     "dev": "slidev --open",
     "export": "slidev export",
     "eject": "slidev theme eject"
