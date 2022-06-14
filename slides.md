@@ -11,7 +11,7 @@ download: true
 layout: intro
 title: Test slides
 themeConfig:
-  logoHeader: https://pic.imgdb.cn/item/62a835330947543129309526.png
+  # logoHeader: https://pic.imgdb.cn/item/62a835330947543129309526.png
   author: hehy
   authorUrl: https://lamda.nju.edu.cn/hehy
 ---
@@ -28,14 +28,18 @@ themeConfig:
 
 ---
 layout: presenter
-presenterImage:
+presenterImage: >-
   https://avatars.githubusercontent.com/u/35964274?s=400&u=834d8e1f47668231cad95b4a2e2aa33008ade2e5&v=4
 ---
 
 Presenter: A Handsome Man
 
+<!--
+这里少说话
+-->
 
 ---
+
 
 ---
 layout: text-window
@@ -61,4 +65,3 @@ class: 'grid text-center align-self-center justify-self-center'
 # Gracias totales
 
 [Documentations](https://sli.dev) / [GitHub Repo](https://github.com/slidevjs/slidev)
-
